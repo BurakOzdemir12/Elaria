@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f7876f14c629fb4986bc99abb8ecfdb, type: 3}
+  m_Name: OrichalcumPickaxe
+  m_EditorClassIdentifier: 
+  createdItemPrefab: {fileID: 7419347085929963832, guid: 38e53899d7faea24bab2e61aa8495b13,
+    type: 3}
+  quantityProduced: 1
+  requiredIngredients:
+  - itemName: Birch Wood Plank
+    requiredQuantity: 5
+  - itemName: Orichalcum Ingot
+    requiredQuantity: 5
