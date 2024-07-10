@@ -1,4 +1,4 @@
 # Elaria 
-# ..isimli oyunumun geliştirme süreci devam etmektedir. 
-# Asset Store eklentilerinden hariç yazdığım tüm scriptler Scripts dosyasının içindedir. 
-# Nasıl çalıştığını görmek için bağlantıları takip edebilirsiniz.
+1- ..isimli oyunumun geliştirme süreci devam etmektedir. 
+2- Asset Store eklentilerinden hariç yazdığım tüm scriptler Scripts dosyasının içindedir. 
+3- Nasıl çalıştığını görmek için bağlantıları takip edebilirsiniz.
